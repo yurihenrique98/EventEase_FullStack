@@ -1,0 +1,6 @@
+node_modules/
+frontend/dist/
+backend/eventease.db-journal
+backend/sessions.db-journal
+.env
+.DS_Store
